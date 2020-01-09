@@ -28,9 +28,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Baekjun_10989">
+  <component name="RunManager" selected="Application.Baekjun_11650">
     <configuration name="Baekjun_10989" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjun_10989" />
+      <module name="Baekjun_Sort" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baekjun_11650" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjun_11650" />
+      <module name="Baekjun_Sort" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baekjun_1427" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjun_1427" />
+      <module name="Baekjun_Sort" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baekjun_2108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjun_2108" />
       <module name="Baekjun_Sort" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -45,6 +66,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjun_11650" />
+        <item itemvalue="Application.Baekjun_1427" />
+        <item itemvalue="Application.Baekjun_2108" />
         <item itemvalue="Application.Baekjun_10989" />
         <item itemvalue="Application.Baekjun_2750" />
       </list>
