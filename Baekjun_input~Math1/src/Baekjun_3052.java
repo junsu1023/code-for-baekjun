@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class baekjun3052 {
+public class Baekjun_3052 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int num = 0;

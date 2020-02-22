@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class baekjun_2562 {
+public class Baekjun_2562 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int[] arr = new int[9];
