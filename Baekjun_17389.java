@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class Baekjun_17389 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        sc.nextLine();
+        String s = sc.nextLine();
+        int bonus = -1;
+        int score = 0;
+        for(int i=0; i<n; i++){
+            if(s.charAt(i)=='X'){
+                bonus = -1;
+            }
+            else{
+                bonus++;
+                score += i + 1 + bonus;
+            }
+        }
+        System.out.println(score);
+    }
+}
